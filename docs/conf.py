@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx doc test'
+project = 'Spinx doct test on github'
 copyright = '2019, Jaromir Radek'
 author = 'Jaromir Radek'
 
