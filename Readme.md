@@ -22,5 +22,4 @@
 
 ## The result
 
-[Generated Readme](https://jradek.github.io/sphinxdoc-test/_build/html/index.html)
-
+[Generated Documentation](https://jradek.github.io/sphinxdoc-test/_build/html/index.html)

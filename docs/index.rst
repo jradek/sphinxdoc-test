@@ -7,14 +7,16 @@ Welcome to Spinx doct test on github's documentation!
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
+   sources/intro.rst
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+
+.. * :ref:`modindex`
